@@ -16,7 +16,7 @@ Tujuan repositori ini adalah untuk memamerkan kemampuan saya dalam merancang *da
 
 ## 📸 Pratinjau Antarmuka
 
-![Dashboard Sistem Keuangan](images/dashboard_keuangan.png)
+![Dashboard Sistem Keuangan](Screenshot5.png)
 *Gambar 1: Tampilan utama Dashboard Sistem Keuangan dengan grafik dan ringkasan data.*
 
 ## 🛠️ Teknologi yang Digunakan (Front-End)
